@@ -66,6 +66,6 @@ Take a look at a visualization in this section!
 
 <img width="1057" alt="Screenshot 2023-05-03 at 3 36 45 PM" src="https://user-images.githubusercontent.com/121995835/236026865-752962d5-9dd8-44a8-8ddd-34d00e8f5e04.png">
 
-These maps and visualizations were created using JavaScript, GeoJSON, and Leaflet.
+These maps and visualizations were created using JavaScript, HTML, GeoJSON, and Leaflet.
 
 
